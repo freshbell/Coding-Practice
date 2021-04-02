@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HMG는 왜 HMG일까", "HMG는 왜 HMG일까\HMG는 왜 HMG일까.vcxproj", "{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Debug|x64.ActiveCfg = Debug|x64
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Debug|x64.Build.0 = Debug|x64
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Debug|x86.Build.0 = Debug|Win32
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Release|x64.ActiveCfg = Release|x64
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Release|x64.Build.0 = Release|x64
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Release|x86.ActiveCfg = Release|Win32
+		{80A0BEB4-69F8-447A-B526-A5B6BD3548A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFC5C8B-B5C9-463D-A970-B5033280FD22}
+	EndGlobalSection
+EndGlobal

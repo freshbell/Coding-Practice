@@ -3,8 +3,8 @@
 # 이진 탐색을 이용
 
 #Ex1 떡 자르기
-#N, M = map(int,input().split())
-#arr = list(map(int,input().split()))
+N, M = map(int,input().split())
+arr = list(map(int,input().split()))
 
 left = 0
 right = -1# max(arr)

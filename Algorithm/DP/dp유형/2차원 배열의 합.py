@@ -5,7 +5,8 @@ for i in range(N):
     arr = list(map(int,input().split()))
     for j in range(len(arr)):
         d[i+1][j+1] = d[i+1][j] + d[i][j+1] - d[i][j] + arr[j]
-        
+
+print(d)        
 K = eval(input())
 for j in range(K):
     i,j,x,y = map(int,input().split())

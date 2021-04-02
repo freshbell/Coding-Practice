@@ -38,5 +38,7 @@ for i in range(K):
             if wich != 0: break
         multi[wich] = seq[i]
         dic[seq[i]] -= 1
+
+    
 print(count)
     
